@@ -1,4 +1,4 @@
-# DUNE-GLoBES-Thesis
+# DUNE-GLoBES-Simulation
 
 This repository contains the simulation codes used in my MSc Physics thesis on neutrino oscillation studies for the Deep Underground Neutrino Experiment (DUNE) using the GLoBES framework.
 
